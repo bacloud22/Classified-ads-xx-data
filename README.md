@@ -40,6 +40,7 @@ You can use [permanent links to files](https://docs.github.com/en/github/managin
 ## Other tools and ressoures
 These tools and ressources can be used to generate data for this repository (please care about licenses and attribution when necessary).  
 Some represent raw data that I couldn't verify myself. If someone is sure, please push to this repository.
+- India data: [data](https://github.com/geohacker/india) (it must be down-sized)
 - France data: https://france-geojson.gregoiredavid.fr/
 - Italy data: https://github.com/openpolis/geojson-italy
 - Spain data: [here](https://github.com/codeforgermany/click_that_hood/blob/master/public/data/spain-provinces.geojson)
