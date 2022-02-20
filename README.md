@@ -9,7 +9,7 @@ Because Github is not meant for hosting raw data.
 
 We can use this as a mean of versioning datasets knowing that geographical data and others (tags data, language specific data, translations...) for [**classified-ads**](https://github.com/bacloud22/classified-ads) website are normally very tiny JSON data.
 
-Naturally, I also use this to improve data quality (like country and subdivisions delimitations precision) for my other repository [**classified-ads**](https://github.com/bacloud22/classified-ads). I suggest that other forks of [**Classified-ads-48**](https://github.com/bacloud14/Classified-ads-48) repo use new forks of this repository for their datasets, but also can suggest additions to this repository.
+Naturally, I also use this to improve data quality (like country and subdivisions delimitations precision) for my other repository [**classified-ads**](https://github.com/bacloud22/classified-ads). I suggest that other forks of [**classified-ads**](https://github.com/bacloud22/classified-ads) repo use new forks of this repository for their datasets, but also can suggest additions to this repository.
 
 ## Nature of data
 As a starter, we have
