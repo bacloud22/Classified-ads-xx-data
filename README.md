@@ -1,5 +1,5 @@
 # Classified-ads-xx-data
-This is a temporary repository for [**Classified-ads-48**](https://github.com/bacloud14/Classified-ads-48) and its forks datasets
+This is a temporary repository for [**classified-ads**](https://github.com/bacloud22/classified-ads) and its forks datasets
 
 # datasets Licensing
 Care about each data license. So with each dataset file, a license file named **LICENSE-dataset-x.md** must be included. In case of absence of license, mention it in a **LICENSE-dataset-x.md** file (so it suits *dataset-x* file that resides in the same folder).
@@ -7,9 +7,9 @@ Care about each data license. So with each dataset file, a license file named **
 ## Why temporary
 Because Github is not meant for hosting raw data.
 
-We can use this as a mean of versioning datasets knowing that geographical data and others (tags data, language specific data, translations...) for [**Classified-ads-xx**](https://github.com/bacloud14/Classified-ads-48) website are normally very tiny JSON data.
+We can use this as a mean of versioning datasets knowing that geographical data and others (tags data, language specific data, translations...) for [**classified-ads**](https://github.com/bacloud22/classified-ads) website are normally very tiny JSON data.
 
-Naturally, I also use this to improve data quality (like country and subdivisions delimitations precision) for my other repository [**Classified-ads-48**](https://github.com/bacloud14/Classified-ads-48). I suggest that other forks of [**Classified-ads-48**](https://github.com/bacloud14/Classified-ads-48) repo use new forks of this repository for their datasets, but also can suggest additions to this repository.
+Naturally, I also use this to improve data quality (like country and subdivisions delimitations precision) for my other repository [**classified-ads**](https://github.com/bacloud22/classified-ads). I suggest that other forks of [**Classified-ads-48**](https://github.com/bacloud14/Classified-ads-48) repo use new forks of this repository for their datasets, but also can suggest additions to this repository.
 
 ## Nature of data
 As a starter, we have
@@ -23,7 +23,7 @@ data/
 All data must be in JSON format (or geojson) except data in raw that can be other types like: Vector, Raster...
 
 ### Metadata
-To be read in [**Classified-ads-xx**](https://github.com/bacloud14/Classified-ads-48), metadata should be:
+To be read in [**classified-ads**](https://github.com/bacloud22/classified-ads), metadata should be:
 
 - `feature.properties.name_{lang}` must exist.
 - ...
@@ -35,7 +35,7 @@ Just mention correctly geographical area in the filename, in ISO code ?
 Do not exceed 3 MB per file (3 MB is huge for the nature of files described above). If the file exceeds 3 MB, you can try to lower the precision (of geolocation points for example). We do not want to use Github for Hosting!!!
 
 ## Deploy
-You can use [permanent links to files](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/getting-permanent-links-to-files) for [**Classified-ads-xx**](https://github.com/bacloud14/Classified-ads-48) repositories only for development environments. This is a temporary repository.
+You can use [permanent links to files](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/getting-permanent-links-to-files) for [**classified-ads**](https://github.com/bacloud22/classified-ads) repositories only for development environments. This is a temporary repository.
 
 ## Other tools and ressoures
 These tools and ressources can be used to generate data for this repository (please care about licenses and attribution when necessary).  
