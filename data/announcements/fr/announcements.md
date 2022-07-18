@@ -76,3 +76,38 @@ On se limite à utiliser les cookies nécessaires et anonymes pour le bon foncti
 - Choix de langue et couleurs, etc.
 
 > Nos publicités ne ciblent pas les utilisateurs. Elles sont publiées seulement par catégories du site et non pas par les gouts ou comportement des utilisateurs. 
+
+<hr>
+
+> ### Licences des données tierses et propriété intellectuelle 
+
+<br>
+
+# Données tierses
+
+On utilise plusieurs données statiques provenant de plusieurs organismes. On vérifie également si la partie source de ses données opte pour des modifications de licence dans le futur.
+
+- [Taxonomie | Google Merchant](https://support.google.com/merchants/answer/6324436?hl=en)
+> Utilisation documentée par Google mais non licensé par Google.
+- [IPTC, International Press Telecommunications Council - https://iptc.org](http://www.iptc.org)
+> License: Attribution 4.0 International (CC BY 4.0).
+- [La classification ESCO](http://www.iptc.org)
+> Attribution: **This service uses the ESCO classification of the European Commission.**
+- [Fasttext word vectors | Facebook](https://fasttext.cc/docs/en/crawl-vectors.html#license)
+> License: The word vectors are distributed under the Creative Commons Attribution-Share-Alike License 3.0.
+- [OpenStreetMap | Fondation OpenStreetMap](https://www.openstreetmap.org/copyright)
+> License: ODbL (Open Database License).  
+> Donnée France: Direction générale des finances publiques 
+
+## Remerciements
+
+On tient à remercier les organismes cités en haut. On remercie aussi la communauté du code libre dont ce site repose [librairies](/static/pages/third_parties.html).
+
+## Remerciements particuliers
+
+- [Fastify](https://fastify.io/)
+- [Caddy](https://caddyserver.com/)
+- [MongoDB](https://mongodb.com/)
+- [Redis](https://redis.io/)
+- [Docker](https://www.docker.com/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
